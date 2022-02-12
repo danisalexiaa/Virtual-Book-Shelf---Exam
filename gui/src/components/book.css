@@ -1,0 +1,38 @@
+.book {
+    height: 300px;
+    width: 200px;
+    background-color: slategray;
+    margin: 10px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-flow: row wrap;
+    padding: 10px;
+}
+
+.book .titlu {
+    height: 100px;
+    width: 200px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: mediumpurple;
+}
+
+.book .gen {
+    height: 100px;
+    width: 200px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: lightblue;
+}
+
+.book .url {
+    height: 100px;
+    width: 200px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: turquoise;
+}

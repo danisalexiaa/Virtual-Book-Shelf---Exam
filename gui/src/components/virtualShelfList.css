@@ -1,0 +1,13 @@
+.virtualShelf-list {
+    display: flex;
+    flex-flow: row wrap;
+    background-color: bisque;
+}
+
+.virtualShelf-list .filter {
+    display: block;
+    clear: right;
+    float: left;
+    background-color: palegreen;
+    width: 100%;
+}
